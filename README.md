@@ -1,2 +1,3 @@
 # my-first-web
-learn html, cs, is 
+
+learn html, css, js
